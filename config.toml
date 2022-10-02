@@ -1,6 +1,6 @@
 relativeURLs = true
 uglyURLs = true
-baseURL = "https://shihao94.github.io"
+baseURL = "https://sualsoft.github.io/new-web/"
 title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"
